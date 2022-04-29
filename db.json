@@ -1,14 +1,220 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "title": "filters",
+    "data": [
+      {
+        "title": "Data Sources",
+        "data": [
+          {
+            "title": "Conference",
+            "data": [
+              {
+                "title": "ACCR",
+                "data": [
+                  {
+                    "title": "2019",
+                    "id": "28"
+                  },
+                  {
+                    "title": "2015",
+                    "id": "29"
+                  }
+                ]
+              },
+              {
+                "title": "ASCO",
+                "data": [
+                  {
+                    "title": "2009",
+                    "id": "30"
+                  },
+                  {
+                    "title": "2015",
+                    "id": "31"
+                  }
+                ]
+              },
+              {
+                "title": "ASHI",
+                "data": [
+                  {
+                    "title": "2022",
+                    "id": "43"
+                  },
+                  {
+                    "title": "2015",
+                    "id": "21"
+                  }
+                ]
+              },
+              {
+                "title": "EHA",
+                "data": [
+                  {
+                    "title": "2009",
+                    "id": "73"
+                  },
+                  {
+                    "title": "2015",
+                    "id": "73"
+                  }
+                ]
+              },
+              {
+                "title": "EULAR",
+                "data": [
+                  {
+                    "title": "2019",
+                    "id": "432"
+                  },
+                  {
+                    "title": "2021",
+                    "id": "78"
+                  }
+                ]
+              },
+              {
+                "title": "ESMO (Cslide)",
+                "data": [
+                  {
+                    "title": "2017",
+                    "id": "433"
+                  },
+                  {
+                    "title": "2018",
+                    "id": "3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Trial Registries",
+            "data": [
+              {
+                "title": "CTGov",
+                "hasValidation": "true",
+                "id": "99"
+              }
+            ]
+          },
+          {
+            "title": "Pharma Organizations",
+            "data": [
+              {
+                "title": "Pipeline",
+                "id": "43"
+              },
+              {
+                "title": "Technology",
+                "id": "25"
+              },
+              {
+                "title": "Press Relaese",
+                "id": "32"
+              },
+              {
+                "title": "Investors",
+                "id": "12"
+              },
+              {
+                "title": "Publications",
+                "id": "98"
+              },
+              {
+                "title": "Presentations",
+                "id": "12"
+              },
+              {
+                "title": "Financial and Feelings",
+                "id": "32"
+              }
+            ]
+          },
+          {
+            "title": "RSS Feeds",
+            "data": [
+              {
+                "title": "Google Alerts",
+                "id": "43"
+              },
+              {
+                "title": "PubmeD RSS Feeds",
+                "id": "3"
+              },
+              {
+                "title": "Press Relaese RSS Feed",
+                "data": [
+                  {
+                    "title": "PRWeb",
+                    "id": "13"
+                  },
+                  {
+                    "title": "PRNewsWire",
+                    "id": "98"
+                  },
+                  {
+                    "title": "BusinessWire Health",
+                    "id": "23"
+                  },
+                  {
+                    "title": "Globenewswire",
+                    "id": "123"
+                  }
+                ]
+              },
+              {
+                "title": "Regulatory Organisation RSS Feed",
+                "id": "61"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Data set",
+        "data": [
+          {
+            "title": "ADC",
+            "id": "34",
+            "data": []
+          },
+          {
+            "title": "Checkpoint",
+            "id": "49",
+            "data": []
+          }
+        ]
+      },
+      {
+        "title": "Variants",
+        "data": []
+      },
+      {
+        "title": "Relevance Status",
+        "data": []
+      },
+      {
+        "title": "Bookmarks",
+        "data": []
+      }
+    ]
+  },
+  {
+    "title": "concepts",
+    "data": [
+      {
+        "title": "Trial Identifiers",
+        "data": []
+      },
+      {
+        "title": "Drugs",
+        "data": []
+      },
+      {
+        "title": "Developers",
+        "data": []
+      }
+    ]
   }
-}
+]
