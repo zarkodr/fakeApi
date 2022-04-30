@@ -7,20 +7,19 @@
         "title": "Data Sources",
         "data": [
           {
-            "title": "Conference",
-            "parent": "Data Sources",
+            "title": "Conference",            
             "data": [
               {
                 "title": "ACCR",
-                "parent": "Data Sources",
+                "parent": "Conference",
                 "data": [
                   {
-                    "parent": "Data Sources",
+                    "parent": "Conference",
                     "title": "2019",
                     "id": "28"
                   },
                   {
-                    "parent": "Data Sources",
+                    "parent": "Conference",
                     "title": "2015",
                     "id": "29"
                   }
@@ -28,15 +27,15 @@
               },
               {
                 "title": "ASCO",
-                "parent": "Data Sources",
+                "parent": "Conference",
                 "data": [
                   {
-                    "parent": "Data Sources",
+                    "parent": "Conference",
                     "title": "2009",
                     "id": "30"
                   },
                   {
-                    "parent": "Data Sources",
+                    "parent": "Conference",
                     "title": "2015",
                     "id": "31"
                   }
@@ -44,15 +43,15 @@
               },
               {
                 "title": "ASHI",
-                "parent": "Data Sources",
+                "parent": "Conference",
                 "data": [
                   {
-                    "parent": "Data Sources",
+                    "parent": "Conference",
                     "title": "2022",
                     "id": "43"
                   },
                   {
-                    "parent": "Data Sources",
+                    "parent": "Conference",
                     "title": "2015",
                     "id": "21"
                   }
@@ -60,15 +59,15 @@
               },
               {
                 "title": "EHA",
-                "parent": "Data Sources",
+                "parent": "Conference",
                 "data": [
                   {
-                    "parent": "Data Sources",
+                    "parent": "Conference",
                     "title": "2009",
                     "id": "73"
                   },
                   {
-                    "parent": "Data Sources",
+                    "parent": "Conference",
                     "title": "2015",
                     "id": "73"
                   }
@@ -76,15 +75,15 @@
               },
               {
                 "title": "EULAR",
-                "parent": "Data Sources",
+                "parent": "Conference",
                 "data": [
                   {
-                    "parent": "Data Sources",
+                    "parent": "Conference",
                     "title": "2019",
                     "id": "432"
                   },
                   {
-                    "parent": "Data Sources",
+                    "parent": "Conference",
                     "title": "2021",
                     "id": "78"
                   }
@@ -92,15 +91,15 @@
               },
               {
                 "title": "ESMO (Cslide)",
-                "parent": "Data Sources",
+                "parent": "Conference",
                 "data": [
                   {
-                    "parent": "Data Sources",
+                    "parent": "Conference",
                     "title": "2017",
                     "id": "433"
                   },
                   {
-                    "parent": "Data Sources",
+                    "parent": "Conference",
                     "title": "2018",
                     "id": "3"
                   }
