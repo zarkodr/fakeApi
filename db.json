@@ -122,37 +122,37 @@
             "title": "Pharma Organizations",
             "data": [
               {
-                "title": "Pharma Organizations",
+                "parent": "Pharma Organizations",
                 "title": "Pipeline",
                 "id": "43"
               },
               {
-                "title": "Pharma Organizations",
+                "parent": "Pharma Organizations",
                 "title": "Technology",
                 "id": "25"
               },
               {
-                "title": "Pharma Organizations",
+                "parent": "Pharma Organizations",
                 "title": "Press Relaese",
                 "id": "32"
               },
               {
-                "title": "Pharma Organizations",
+                "parent": "Pharma Organizations",
                 "title": "Investors",
                 "id": "12"
               },
               {
-                "title": "Pharma Organizations",
+                "parent": "Pharma Organizations",
                 "title": "Publications",
                 "id": "98"
               },
               {
-                "title": "Pharma Organizations",
+                "parent": "Pharma Organizations",
                 "title": "Presentations",
                 "id": "12"
               },
               {
-                "title": "Pharma Organizations",
+                "parent": "Pharma Organizations",
                 "title": "Financial and Feelings",
                 "id": "32"
               }
