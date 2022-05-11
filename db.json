@@ -12,6 +12,7 @@
               {
                 "title": "ACCR",
                 "parent": "Conference",
+                "type": "multiselect"
                 "data": [
                   {
                     "parent": "Conference",
